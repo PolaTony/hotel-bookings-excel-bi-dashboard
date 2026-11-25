@@ -20,7 +20,7 @@ I worked on this project end-to-end across all stages:
 ### 1. Landing Page
 Overview hub providing direct navigation into the three analytical views of the dashboard.
 
-![Landing Page](1-%20Landing%20Page.jpg)
+![Landing Page](1-Landing-Page.png)
 
 ---
 
@@ -30,7 +30,7 @@ Tracks overall booking volume, actual vs. lost revenue, cancellation rate, avera
 - **KPIs:** Total Bookings (`119.0K`), Actual Revenue (`$26.4M`), Lost Revenue (`$16.3M`), Cancellation Rate (`36%`), Avg. Daily Rate (`$102`).
 - **Visuals:** Monthly Revenue (`Cancelled` vs. `Not Cancelled`), Actual vs. Lost Revenue by Hotel Type, and Actual Revenue by Market Segment.
 
-![Executive & Revenue Overview](2-%20Executive%20&%20Revenue%20Overview.jpg)
+![Executive & Revenue Overview](2-Executive-&-Revenue-Overview.png)
 
 ---
 
@@ -40,7 +40,7 @@ Examines no-show behavior, average lead time prior to cancellation, high-risk bo
 - **KPIs:** No-Show Rate (`1%`), Avg. Cancellation Lead Time (`147 Days`), High-Risk Bookings Rate (`88%`).
 - **Visuals:** Top 10 Countries by Cancellation, Cancellation Rate by Payment Risk (`High Risk` vs. `Low Risk`), and Cancellation Rate by Lead Time Category (`Short`, `Medium`, `Long`).
 
-![Cancellation, Risk & Geography](3-%20Cancellation,%20Risk%20&%20Geography.jpg)
+![Cancellation, Risk & Geography](3-Cancellation,-Risk-&-Geography.png)
 
 ---
 
@@ -50,7 +50,7 @@ Focuses on guest volume, average length of stay, repeat guest rate, guest type d
 - **KPIs:** Total Guests (`76.1K`), Avg. Length of Stay (`3 Nights`), Repeat Guest Rate (`3%`).
 - **Visuals:** Bookings by Guest Type (`Couple`, `Single`, `Family`), Average Stay Duration by Guest Type, and Cancellation Rate (`New` vs. `Repeat Guests`).
 
-![Guest Behavior & Stay Patterns](4-%20Guest%20Behavior%20&%20Stay%20Patterns.jpg)
+![Guest Behavior & Stay Patterns](4-Guest-Behavior-&-Stay-Patterns.png)
 
 ---
 
@@ -59,10 +59,10 @@ Focuses on guest volume, average length of stay, repeat guest rate, guest type d
 - **Original Dataset:** The raw hotel bookings dataset prior to/alongside the analysis workflow.
 - **Excel Analysis & Dashboard Workbook:** The complete Excel file containing data cleaning/preparation, analytical tables, and interactive dashboard pages.
 - **Dashboard Screenshots:**
-  - `1- Landing Page.jpg`
-  - `2- Executive & Revenue Overview.jpg`
-  - `3- Cancellation, Risk & Geography.jpg`
-  - `4- Guest Behavior & Stay Patterns.jpg`
+  - `1- Landing Page`
+  - `2- Executive & Revenue Overview`
+  - `3- Cancellation, Risk & Geography`
+  - `4- Guest Behavior & Stay Patterns`
 
 ---
 
