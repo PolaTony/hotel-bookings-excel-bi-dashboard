@@ -30,7 +30,7 @@ Tracks overall booking volume, actual vs. lost revenue, cancellation rate, avera
 - **KPIs:** Total Bookings (`119.0K`), Actual Revenue (`$26.4M`), Lost Revenue (`$16.3M`), Cancellation Rate (`36%`), Avg. Daily Rate (`$102`).
 - **Visuals:** Monthly Revenue (`Cancelled` vs. `Not Cancelled`), Actual vs. Lost Revenue by Hotel Type, and Actual Revenue by Market Segment.
 
-![Executive & Revenue Overview](2-Executive-&-Revenue-Overview.png)
+![Executive & Revenue Overview](2-Executive-&-Revenue Overview.png)
 
 ---
 
